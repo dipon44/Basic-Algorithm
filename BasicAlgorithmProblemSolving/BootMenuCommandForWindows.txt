@@ -1,0 +1,7 @@
+Diskpart
+List Disk
+Select Disk ...
+clean
+Create Partition Primary
+Select Partition 1
+Active
